@@ -1,4 +1,4 @@
-# 👨‍💻 Thiago da Silva Carpanez
+# 👨‍💻 Thiago Da Silva Carpanez
 
 ### Ciência da Computação | Backend Python | Desenvolvimento Web
 
