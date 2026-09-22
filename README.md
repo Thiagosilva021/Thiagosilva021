@@ -199,6 +199,3 @@ Estou constantemente criando projetos, estudando novas tecnologias e tentando tr
   </a>
 </p>
 
----
-
-⭐ Se algum dos meus projetos for útil para você, fique à vontade para explorar o código e deixar uma estrela!
