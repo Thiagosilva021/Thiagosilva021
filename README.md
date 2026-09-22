@@ -1,6 +1,6 @@
 # 👨‍💻 Thiago Da Silva Carpanez
 
-### Ciência da Computação | Backend Python | Desenvolvimento Web
+### Ciência da Computação | Backend Python
 
 Olá! Eu sou **Thiago**, estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em **desenvolvimento Backend utilizando Python**.
 
